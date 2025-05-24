@@ -18,5 +18,6 @@
 > [!WARNING]
 > Resta Cleaner'in çalışması için [`VC_Redist`](https://aka.ms/vs/17/release/vc_redist.x64.exe) bilgisayarınızda kurulu olması gerekiyor.
 > Resta Cleaner'in çalışması için [`.NET Desktop Runtime 9.0`](https://dotnet.microsoft.com/en-us/download/dotnet/9.0) bilgisayarınızda kurulu olması gerekiyor.
+
 > [!NOTE]
 > Sadece 64 bit Windows sürümleri desteklenmektedir.
