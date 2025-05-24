@@ -1,6 +1,6 @@
 # 🔶 Resta Cleaner Yayında (25/05/2025)!
 # 🔷 [`Discord`](https://discord.gg/CeJpdsuRAM) sunucumuza katılmayı unutmayın.
-# ✔ [`Tıkla`](https://github.com/aaleaf/Laze/releases/tag/Laze) indir.
+# ✔ [`Tıkla`](https://github.com/RestaDevv/Resta-Cleaner/releases/tag/v1.0) indir.
 
 ### ✨ Özellikler:
 • Sistem Temizliği: Gereksiz dosyaları, önbelleği ve geçici dosyaları tek tıkla temizler
